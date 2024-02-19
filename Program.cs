@@ -4,8 +4,6 @@
  * Purpose: COMP003A.ASSIGNMENT5
  */
 
-using System;
-
 namespace COMP003A.ASSIGNMENT5
 {
     internal class Program
